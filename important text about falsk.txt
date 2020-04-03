@@ -1,0 +1,53 @@
+global folder me cmd me 
+pip install flask
+
+
+
+apne folder me cmd open krna h
+pip install virtualenv
+virtualenv env
+                                         no write anywhere----->   env\Scripts\activate
+pip install flask flask-sqlalchemy
+
+
+
+output
+python pro1.py
+
+
+
+
+
+http://127.0.0.1        --------------ip address
+5000 port
+/     route
+
+
+
+
+
+--------fb twitter etc ke icons lagane h
+--------footer ka color change
+
+
+
+
+xampp server on hoga tou chale ga pages
+
+
+
+
+
+
+
+
+
+ctrl + `                -------------terminal open
+
+
+
+
+
+
+
+bootstrap ke lye 3 folder and kuch code imp hota h jo flask blog me static me or layout.html me end me code h 
